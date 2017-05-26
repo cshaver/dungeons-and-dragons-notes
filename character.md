@@ -5,6 +5,10 @@
 - Spellcasty person
 - [Looks like this guy](https://www.artstation.com/artwork/level-100-mage)
 
+| Level | Race | Class | Name | Alignment |
+| ----- | ---- | ----- | ---- | --------- |
+| 1 | Doppelganger | ??? | ??? | ??? |
+
 ## Personality stuff
 - Something about knowing a person being an ultimate power over them, so not having a personality or identity at all as a way of being safe or powerful
 - Like a hermit of the soul
