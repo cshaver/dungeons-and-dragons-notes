@@ -26,6 +26,7 @@
 
 Ideas:
 - Wizard to align with "pursuit of knowledge"
+- Cleric, Knowledge domain
 - Warlock: Pact of the Winds:
 
 > The Bleak Cabal encourages its faction members to stare into the heart of madness, to look at the inherent pointlessness of existence and to come away with a better understanding of their place in the world, and its insignificance. This cosmic emptiness gives all Bleakers a fatalistic, dire outlook on life, and leads some to great acts of compassion and understanding. It also leads some to take a pilgrimage to Pandemonium, to experience madness in truth, and to understand what it means to entirely lose control.
