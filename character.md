@@ -7,12 +7,12 @@
 
 | Level | Race | Class | Name | Alignment |
 | ----- | ---- | ----- | ---- | --------- |
-| 1 | Doppelganger | ??? | ??? | ??? |
+| 1 | [Doppelganger](https://www.dandwiki.com/wiki/Doppelganger_(5e_Race)) | ??? | ??? | ??? |
 
 ## Personality stuff
 - Something about knowing a person being an ultimate power over them, so not having a personality or identity at all as a way of being safe or powerful
 - Like a hermit of the soul
-- I was inspired by [the society bits here](https://www.dandwiki.com/wiki/Doppelganger_(5e_Race)) where they have a lot of trouble maintaining personalities of their own. So there could be some backstory where it's a coping mechanism or something
+- I was inspired by [the stuff about doppelganger societies](https://www.dandwiki.com/wiki/Doppelganger_(5e_Race)) where they have a lot of trouble maintaining personalities of their own. So there could be some backstory where it's a coping mechanism or something
 
 ### Inspiration quotes:
 
