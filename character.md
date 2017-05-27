@@ -50,4 +50,9 @@ Ideas:
 
 1. [Doppelganger (5e Race)](https://www.dandwiki.com/wiki/Doppelganger_(5e_Race))
 2. [Planescape 5th Edition.pdf](http://www.adnd3egame.com/documents/Planescape%205th%20Edition.pdf)
-- http://forgottenrealms.wikia.com/wiki/Doppelganger
+
+### Other interesting links
+- [Doppelganger - Forgotten Realms Wiki](http://forgottenrealms.wikia.com/wiki/Doppelganger)
+- [Truename Magic Introduction - *Tome of Magic* Excerpt](http://archive.wizards.com/default.asp?x=dnd/ex/20060303a&page=8)
+- [I Know Your True Name - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/IKnowYourTrueName)
+- [Sympathetic Magic - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/SympatheticMagic)
