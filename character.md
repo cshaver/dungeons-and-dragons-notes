@@ -88,12 +88,6 @@
   > ### BLEAK CABAL “BLEAKER”
   > The multiverse ain't supposed to make sense; there's no grand scheme, no deep meaning, no elusive order. The only truth worth finding lies within. You are a member of the Bleak Cabal. Your central belief is that there is no greater meaning to anyone’s life, and that the only meaning we can derive from existence comes from what we can do for those around us now. Prerequisite: Lawful characters don't join the Bleak Cabal because a life without meaning means a life without order. Skill
   >
-  > **Proficiencies:** Insight, medicine Tool Proficiency: Herbalism kit, cook's utensils Equipment: Herbalism kit, healer’s kit, manacles, a set of common clothes with a faction badge sewn into them, and a belt pouch containing 5 gp. Feature: Nameless. As a Bleaker, you’ve given up your last name, seeing family ties as meaningless. You are welcome to stay in the Mad Bleaker wing of the Gatehouse in the Hive Ward, and you are also welcome to work at a particular soup kitchen somewhere in the Hive or in one of the Gatehouse wings (though you aren’t paid for this). Additionally, you know of a portal, and the key for that portal, that leads to the town of The Madhouse in Pandemonium, where you are also welcome. Inspiration: Reassurance in the Face of Oblivion. If you gain a point of Inspiration for adhering to your faction philosophy, you may use it to allow an ally (someone other than yourself) to automatically succeed on a save against any effect that requires a Wisdom saving throw.
-  > Actions that may earn you Inspiration might include:
-  > - Accepting only practical, tangible rewards for services rendered, while disdaining the accolades and/or social boons typically associated with heroic endeavors.
-  > - Voluntarily failing a save against an effect that induces madness or affects the mind.
-  > - Aid the suffering of others without expectation of compensation or reward. Restriction: After each week of downtime you must pass of DC10 Wisdom saving throw or succumb to temporary “Bleaker madness” which lasts either until your downtime period ends or after 1d6+1 days pass, whichever comes first. During this madness you cannot take any activities (downtime activities or otherwise) besides resting; if you do you cannot gain  46 Inspiration until you atone or otherwise prove yourself to your faction's cause (or lack thereof!).
-  >
   > **Suggested Characteristics:** Bleakers can be dour and most are more than a little insane, but the best of them are charitable and generous, finding that alleviating the suffering is a lot more useful than looking for a point to it.
   >
   > **Bleaker Membership:** Members of the Cabal are surprisingly diverse, but they share one common theme: any devotion to a cause greater than one's own life is seen as entirely pointless, so classes that revere distant concepts or entities are very unusual. The Bleakers enjoy plenty of hardened sellswords (half-mad berserker barbarians, fighters inured to violence, cold-blooded assassins), and some dangerous and unpredictable spell-slingers (wild sorcerers who have lost touch with reality, madness-inducing enchanters, illusionists who view life as fleeting as illusions).
@@ -105,45 +99,12 @@
     > *The multiverse belongs to those who seize it. No ones to blame for a poor sod's fate but the sorry sod himself.*
     > You are a member of the Fated. You belong to a group of independent, self-sufficient people who ally because they share the view that the authority in life belongs to those who can seize it.
     >
-    > **Prerequisite:** Lawful Good characters avoid the Fated's uncharitable philosophy.
-    >
-    > **Skill Proficiencies:** Intimidation, investigation
-    >
-    > **Tool Proficiency:** Scribe’s supplies, forgery kit
-    >
-    > **Equipment:** Scribe’s supplies, forgery kit, a set of fine clothes including a faction badge sewn into them, and a belt pouch containing 25 gp.
-    > Feature: Heartless. As a member of the Fated, you have access to the Hall of Records, including food and drink for a reasonable fee (Fated get nothing for free), and access to the property records, the Academy of Training, and the tax records of Sigil (including defaults, credits, lending records, tax rolls – anything having to do with money). Perhaps importantly, you also know how to look up records yourself. You also know the key to and location of a portal that will grant you access to Rowan's Hall on Ysgard.
-    >
-    > **Inspiration:** Self-Sufficient. If you gain a point of Inspiration for adhering to your faction philosophy, you may use it to gain a proficiency bonus to one skill check that you make in a skill you aren’t normally proficient in.
-    > The following examples may be situations in which you are awarded Inspiration:
-    > - Refusing healing or assistive magic from another character.
-    > - Accomplishing a deed (such as slaying a monster) without any other character contributing.
-    > - Refusing to help an ally in desperate need.
-    >
-    > **Restriction:** A real Taker doesn't accept or give charity, always demands (or provides) services before payment is rendered, and strives toward self-reliance; should you compromise these core values, you lose the ability to gain Inspiration until you atone or otherwise prove yourself to your faction's cause.
-    >
     > **Suggested Characteristics:** The Fated are self-sufficient, independent, and harsh in their treatment of others, but fair. The strong get what they deserve, but there are many kinds of strength in this world, many much more subtle than raw muscle.
     >
     > **Taker Membership:** The Fated are entirely a group of survivalists of one stripe or another. The faction attracts any member of any class that doesn't depend on others to get their job done. Barbarians, fighters, druids, rangers (hunter rangers are more popular than beastmaster rangers), and sorcerers are very common, each one capable of mastering their own power. More urban environments lead to a lot of rogues, especially Digger Archetype rogues, each one a master at discovering secrets that others want to keep hidden. More rarely, you may find Fated paladins, monks, wizards, or bards. These classes tend to rely on others, at least for their initial training, but some certainly take a more independent view of their abilities, and become self-taught and self-guided, though this path is often difficult for them. Clerics and Warlocks, explicitly dependent as they are on other entities, almost never become Takers, who see both classes as being crippled by their reliance on the charity of some other creature, little more than parasites on them.
   - > ### FRATERNITY OF ORDER “GUVNER”
     > *Everything has laws; most are dark. Learn the laws of the multiverse, and you can control it.*
     > You are a member of the Fraternity of Order. You believe that all of creation has a hidden pattern and cohesiveness, and that by discovering this pattern, you can attain power over it.
-    >
-    > **Prerequisite:** Only Lawful-aligned characters can join the faction.
-    >
-    > **Skill Proficiencies:** History, investigation
-    >
-    > **Tool Proficiency:** Cartographer’s tools, scribe's supplies
-    >
-    > **Equipment:** Cartographer’s tools, scribe’s supplies, abacus, a set of common clothes including a faction badge sewn into them, and a belt pouch containing 15 gp.
-    >
-    > **Feature:** Aide to Unity. You belong to the Fraternity of order, which allows you to access the City Court and the Vault of Knowledge that lies there. You may be assigned tasks by the faction and make some coin – enough to live a Modest lifestyle. You also know of a portal to the Fortress of Disciplined Enlightenment, the Fraternity’s headquarters on Mechanus, and the key to that portal.
-    >
-    > **Inspiration:** Patterns of Speech. If you gain a point of Inspiration for adhering to your faction philosophy, you may use it to understand one bit information spoken or written in a language you are not otherwise fluent in. In addition, you can spend Inspiration when casting comprehend languages to decode secret messages in a text or glyph, such as an arcane Sigil, that isn't part of a written language. Actions you might take that may gain you
-    > Inspiration might include:
-    > - Spending your down time accessing and learning about the laws of the area you're in.
-    > - Adhering to the law of the land when breaking it would bring you some reward or convenience.
-    > - Exploiting or correcting a loophole in a legal system.
     >
     > **Suggested Characteristics:** Guvners are attracted to power. Though the faction’s daily activities are dry and even dull, the stakes are quite high – if the Guvners are right, then sufficient study will allow one to control the underpinning axioms of reality.
 
