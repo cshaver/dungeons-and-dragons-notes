@@ -125,7 +125,7 @@
     > **Suggested Characteristics:** The Fated are self-sufficient, independent, and harsh in their treatment of others, but fair. The strong get what they deserve, but there are many kinds of strength in this world, many much more subtle than raw muscle.
     >
     > **Taker Membership:** The Fated are entirely a group of survivalists of one stripe or another. The faction attracts any member of any class that doesn't depend on others to get their job done. Barbarians, fighters, druids, rangers (hunter rangers are more popular than beastmaster rangers), and sorcerers are very common, each one capable of mastering their own power. More urban environments lead to a lot of rogues, especially Digger Archetype rogues, each one a master at discovering secrets that others want to keep hidden. More rarely, you may find Fated paladins, monks, wizards, or bards. These classes tend to rely on others, at least for their initial training, but some certainly take a more independent view of their abilities, and become self-taught and self-guided, though this path is often difficult for them. Clerics and Warlocks, explicitly dependent as they are on other entities, almost never become Takers, who see both classes as being crippled by their reliance on the charity of some other creature, little more than parasites on them.
-    - > ### FRATERNITY OF ORDER “GUVNER”
+  - > ### FRATERNITY OF ORDER “GUVNER”
     > *Everything has laws; most are dark. Learn the laws of the multiverse, and you can control it.*
     > You are a member of the Fraternity of Order. You believe that all of creation has a hidden pattern and cohesiveness, and that by discovering this pattern, you can attain power over it.
     >
