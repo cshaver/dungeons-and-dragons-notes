@@ -1,0 +1,9 @@
+{
+	"cmd": "pdflatex",
+	"name": "LaTeX",
+	"args": [
+		"main.tex"
+	],
+	"sh": "true,",
+	"atomCommandName": "namespace:command"
+}
