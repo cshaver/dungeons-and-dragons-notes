@@ -1,0 +1,24 @@
+\newcommand{\paragraphsection}[2]{
+	{\color{black}\normalfont\bfseries\textit{#1}.}
+	\noindent{#2}\par
+}
+
+\newcommand{\paragraphsubsection}[2]{
+	{\color{black}\normalfont\bfseries\noindent{#1}:}
+	\noindent{#2}\par
+}
+
+\newcommand{\quotesection}[2]{
+	\FirstLine{#1}
+	\textit{#2}\vspace{5pt}\par
+}
+
+% Table Environment
+\newenvironment{rolltable}[1][m{1em} m{\linewidth-4\tabcolsep-1em}]{
+	\par\vspace*{8pt}
+	\noindent
+	\fontfamily{lmss}\selectfont %Select font
+	\rowcolors{1}{bgtan}{commentgreen} % Alternate colors
+	\tabularx{\linewidth}{#1}
+	}
+	{\endtabularx\vspace{8pt plus 1pt}\noindent}
