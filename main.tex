@@ -13,6 +13,10 @@
 \usetikzlibrary{calc}
 \usepackage{wrapfig}
 \usepackage{subfiles}
+\usepackage{natbib}
+\usepackage{hyperref}
+
+\bibpunct{[}{]}{;}{n}{,}{,}
 
 \graphicspath{{images/}}
 
@@ -23,7 +27,7 @@
 % Your content goes here
 
 % Comment this out if you’re using the article class.
-\chapter{Character: ???}
+\chapter{Character: “Gumdrop”}
 
 \begin{tikzpicture}[remember picture,overlay]
   \node[anchor=south west,inner sep=0pt] at ($(current page.south west)$) {
@@ -34,13 +38,14 @@
 {\vspace{-3em}}
 
 \section{Main Section}
+
 \lipsum[1] % filler text
 
 \newpage
 
 \lipsum[1] % filler text
 
-\subsection{Fun with boxes}
+\subsection{Fun with boxess}
 
 \begin{quotebox}
 	As you approach this template you get a sense that the blood and tears of many generations went into its making. A warm feeling welcomes you as you type your first words.
@@ -122,8 +127,14 @@
 
 \subfile{sections/doppelganger}
 
-\section{Warlock}
 \subfile{sections/warlock}
+
+\clearpage
+
+\onecolumn
+\renewcommand{\bibname}{References}
+\bibliography{main}{}
+\bibliographystyle{plainnat}
 
 % End document
 \end{document}
