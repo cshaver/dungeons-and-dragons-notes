@@ -33,3 +33,53 @@ Starting at Level 10, you revel in causing chaos in battle and befuddling your e
 Starting at Level 14, on a successful unarmed attack or scraping of the skin with your claws on an incapacitated humanoid, you can choose to infect him with a disease called the chaos phage. The humanoid must make a Constitution saving throw against your spell save DC or become diseased. On a successful save, nothing happens to the humanoid. On a failed save, within 2d12 hours, the person will die as a slaadi tadpole bursts out of the humanoid's insides. The tadpole will transform into a red or blue slaad in 2d12 hours. If the humanoid dies before full incubation, the tadpole will not survive but the body remains a potential source of infection for 24 hours. The phage can be spread if exposed to the diseased humanoid's blood.
 
 Every time you use this feature, you tap into the slaad's regenerative nature and recover health equivalent to your warlock level times 3, allowing you to sustain your spread of mayhem. You can recover health regardless of whether the disease successfully took hold. This feature can only be used once every long rest.
+
+\subsection{Slaad Tadpoles \cite{tadpole}}
+Slaad tadpoles are the larval form shared in common by all slaad subspecies. Resembling not a mundane tadpole but a fanged frog’s head with a finned tail where its neck should be, these belligerent little creatures swim the tides of chaos everywhere in the Maelstrom. The raw chaos of their bodies is not yet fully coalesced, making them highly elusive.
+
+Slaad tadpoles come into being in countless ways: some spawned through sexual reproduction, some implanted in victims in the form of a deadly virus called “chaos phage” that slowly takes over a host body, and so on. A slaad tadpole matures into an adult slaad in a period of days, months, or even years, the amount of time seemingly random.
+
+% You can optionally not include the background by saying
+% begin{monsterboxnobg}
+\begin{monsterbox}{Slaad Tadpole}
+	\textit{CN Tiny outsider (chaotic, extraplanar, slaad)}\\
+	\hline
+	\basics[%
+	armorclass = 14,
+	hitpoints  = 26,
+	speed      = 10 ft
+	]
+	\hline
+	\stats[
+	STR = \stat{13}, % This stat command will autocomplete the modifier for you
+	DEX = \stat{14},
+	CON = \stat{12},
+	INT = \stat{3},
+	WIS = \stat{10},
+	CHA = \stat{11}
+	]
+	\hline
+	\details[%
+	% If you want to use commas in these sections, enclose the
+	% description in braces.
+	% I’m so sorry.
+	senses = {Darkvision 60 ft., Perception +7},
+	languages = {Slaad},
+	damageimmunities = {Sonic},
+	damageresistances = {Acid, Cold, Elecricity, Fire},
+	conditionimmunities = {Charmed},
+	challenge = 2
+	]
+	\hline \\[1mm]
+	\begin{monsteraction}[Monster-super-powers]
+		This Monster has some serious superpowers!
+	\end{monsteraction}
+	\monstersection{Actions}
+	\begin{monsteraction}[Chaos Shift (Su)]
+		Once per turn, when attacked in melee, a slaad tadpole can instantly teleport 10 ft. away in a random direction, avoiding damage.
+	\end{monsteraction}
+
+	\begin{monsteraction}[Fade (Su)]
+	When a slaad tadpole deals damage, it becomes incorporeal until the start of its next turn.
+	\end{monsteraction}
+\end{monsterbox}
