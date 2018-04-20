@@ -1,7 +1,7 @@
 
 \begin{tikzpicture}[remember picture,overlay]
   \node[anchor=south west,inner sep=0pt] at ($(current page.south west)$) {
-     \includegraphics[width=\paperwidth]{black-mage-transparent}
+	\includegraphics[width=\paperwidth]{black-mage-transparent}
   };
 \end{tikzpicture}
 
@@ -30,7 +30,7 @@
 	\basics[%
 	armorclass = 13,
 	hitpoints  = 33,
-	speed      = 30 ft
+	speed      = 30 ft.
 	]
 	\hline
 	\stats[
@@ -46,15 +46,15 @@
 	% If you want to use commas in these sections, enclose the
 	% description in braces.
 	% I’m so sorry.
-	senses = {Darkvision 60 ft},
+	senses = {darkvision 60 ft., passive Perception 11},
 	languages = {Common, Infernal, Sylvan, Draconic, Undercommon, Slaad, Spider (verbal and telepathic)},
-	conditionimmunities = {Charmed},
+	conditionimmunities = {charmed},
 	]
 	\begin{monsteraction}[Generate text]
 		This one can generate tremendous amounts of text! Though only when it wants to.
 	\end{monsteraction}
 	\monstersection{Actions}
-	\begin{monsteraction}[Menacing]
+	\begin{monsteraction}[Menacing \cite{uea-2017-04}]
 		When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target's Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can't be frightened by you in this way for 1 hour.
 	\end{monsteraction}
 

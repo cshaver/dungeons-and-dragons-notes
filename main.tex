@@ -2,7 +2,7 @@
 % rather than alternate every other.
 %
 % Note that the article class does not have chapters.
-\documentclass[11pt,twoside,twocolumn,openany]{book}
+\documentclass[10pt,twoside,onecolumn,openany]{book}
 	% Options: bg-a4, bg-letter, bg-full, bg-print, bg-none.
 \usepackage[bg-full]{dnd}
 \usepackage[english]{babel}
@@ -16,19 +16,23 @@
 \usepackage{subfiles}
 \usepackage{natbib}
 \usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{wrapfig}
 
 \bibpunct{[}{]}{;}{n}{,}{,}
 
 \graphicspath{{images/}}
 
-\hyphenpenalty=200
+\hyphenpenalty=800
 
 % Start document
 \begin{document}
 
-\chapter{Appendix A: Equipment \& Companions}
-\subfile{sections/equipment}
+\chapter{Appendix A: Companions}
 \subfile{sections/companions}
+
+\chapter{Appendix B: Equipment}
+\subfile{sections/equipment}
 
 \chapter{Appendix B: Character Options}
 \subfile{sections/warlock}
@@ -38,7 +42,7 @@
 \subfile{sections/gumdrop}
 
 \clearpage
-
+% \end{multicols}
 \onecolumn
 \renewcommand{\bibname}{References}
 \bibliography{main}{}
