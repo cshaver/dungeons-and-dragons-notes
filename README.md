@@ -1,2 +1,4 @@
-# sigil
-Rocket's campaign!
+# Character notes
+
+## Prerequisites
+- https://www.latex-project.org/get/
