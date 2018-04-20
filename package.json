@@ -1,0 +1,24 @@
+{
+  "name": "dungeons-and-dragons-notes",
+  "version": "1.0.0",
+  "description": "Notes for Rocket's campaign",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "npm run clean && TEXINPUTS=./lib//: latexmk -pdf",
+    "watch": "npm run clean && TEXINPUTS=./lib//: latexmk -pvc -pdf",
+    "clean": "latexmk -C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cshaver/dungeons-and-dragons-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cshaver/dungeons-and-dragons-notes/issues"
+  },
+  "homepage": "https://github.com/cshaver/dungeons-and-dragons-notes#readme"
+}
