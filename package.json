@@ -7,8 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "build": "npm run clean && TEXINPUTS=./lib//: latexmk -pdf",
-    "watch": "npm run clean && TEXINPUTS=./lib//: latexmk -pvc -pdf",
+    "build": "npm run clean && TEXINPUTS=./lib//: latexmk -pdf -f",
+    "watch": "npm run clean && TEXINPUTS=./lib//: latexmk -pvc -pdf -f",
     "clean": "latexmk -C"
   },
   "repository": {
